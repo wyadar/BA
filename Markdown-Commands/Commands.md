@@ -17,4 +17,3 @@
 |rm -rf|rm -rf <test.txt>|Forcefully removes file/folder|
 |rm -r|rm -r <test.txt>|Recursively removes the file/folder|
 |clear|clear|Clears the content on the screen|
-|mv|mv <||
